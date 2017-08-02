@@ -1,0 +1,13 @@
+body #app3 {
+  margin-bottom: 4rem; }
+
+input {
+  border: 3px solid seagreen !important; }
+
+.the-box {
+  min-height: 350px;
+  margin-top: 3rem !important; }
+  .the-box h6 {
+    padding: 1rem; }
+
+/*# sourceMappingURL=style.css.map */
